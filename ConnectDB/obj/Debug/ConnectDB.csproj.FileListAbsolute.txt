@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\ConnectDB\bin\Debug\ConnectDB.exe.config
+C:\Users\Administrator\source\repos\ConsoleApp1\ConnectDB\bin\Debug\ConnectDB.exe
+C:\Users\Administrator\source\repos\ConsoleApp1\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\ConnectDB\obj\Debug\ConnectDB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\ConnectDB\obj\Debug\ConnectDB.exe
+C:\Users\Administrator\source\repos\ConsoleApp1\ConnectDB\obj\Debug\ConnectDB.pdb
+C:\Users\Administrator\source\repos\CreateExcelFile\ConnectDB\bin\Debug\ConnectDB.exe.config
+C:\Users\Administrator\source\repos\CreateExcelFile\ConnectDB\bin\Debug\ConnectDB.exe
+C:\Users\Administrator\source\repos\CreateExcelFile\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Users\Administrator\source\repos\CreateExcelFile\ConnectDB\obj\Debug\ConnectDB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CreateExcelFile\ConnectDB\obj\Debug\ConnectDB.exe
+C:\Users\Administrator\source\repos\CreateExcelFile\ConnectDB\obj\Debug\ConnectDB.pdb
